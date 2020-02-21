@@ -1,0 +1,23 @@
+{
+  "name": "mycbook",
+  "version": "1.0.0",
+  "description": "这是自动创建的README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houyuqin/mycbook.git"
+  },
+  "keywords": [],
+  "author": "houyuqin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houyuqin/mycbook/issues"
+  },
+  "homepage": "https://github.com/houyuqin/mycbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
